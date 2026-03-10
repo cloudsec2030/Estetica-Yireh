@@ -207,7 +207,6 @@ Agendar cita por WhatsApp
 <section>
 
 <h2>Galería de Cortes</h2>
-
 <div class="gallery">
 <img src="corte1.jpg">
 <img src="corte2.jpg">
