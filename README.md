@@ -50,7 +50,6 @@ border-radius:12px;
 <h2>Galería de Cortes</h2>
 
 <div class="gallery">
-
 <img src="corte1.jpg" onclick="openImg(this)" onerror="this.remove()">
 <img src="corte2.jpg" onclick="openImg(this)" onerror="this.remove()">
 <img src="corte3.jpg" onclick="openImg(this)" onerror="this.remove()">
@@ -58,7 +57,7 @@ border-radius:12px;
 <img src="corte5.jpg" onclick="openImg(this)" onerror="this.remove()">
 <img src="corte6.jpg" onclick="openImg(this)" onerror="this.remove()">
 <img src="corte7.jpg" onclick="openImg(this)" onerror="this.remove()">
-
+<img src="corte5.jpg" onclick="openImg(this)" onerror="this.remove()">
 </div>
 
 </section>
